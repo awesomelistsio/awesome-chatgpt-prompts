@@ -93,6 +93,7 @@ ChatGPT prompts can dramatically enhance how you interact with language models. 
 - [OpenPromptLibrary](https://github.com/openai/openai-cookbook/blob/main/examples/OpenPromptLibrary.md) – Prompt examples from OpenAI’s community and cookbook.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) – Comprehensive guide to prompt techniques and examples.
 - [LearnPrompting](https://learnprompting.org/) – Free resource for mastering prompt design.
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Related Awesome Lists
 
