@@ -1,4 +1,4 @@
-# Awesome ChatGPT Prompts [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome ChatGPT Prompts [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -96,11 +96,11 @@ ChatGPT prompts can dramatically enhance how you interact with language models. 
 
 ## Related Awesome Lists
 
-- **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering)**
-- **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt)**
-- **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)**
-- **[Awesome OpenAI](https://github.com/awesomelistsio/awesome-openai)**
-- **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai)**
+- **[Awesome Prompt Engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**
+- **[Awesome ChatGPT](https://github.com/brandonhimpfen/awesome-chatgpt)**
+- **[Awesome LLMOps](https://github.com/brandonhimpfen/awesome-llmops)**
+- **[Awesome OpenAI](https://github.com/brandonhimpfen/awesome-openai)**
+- **[Awesome Generative AI](https://github.com/brandonhimpfen/awesome-generative-ai)**
 
 ## Contribute
 
